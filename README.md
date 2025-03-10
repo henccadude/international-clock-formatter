@@ -17,3 +17,7 @@ A simple **JavaScript-based digital clock** that displays the time in different 
 2️⃣ The clock updates instantly, displaying the time in that country's **language and format**.  
 3️⃣ The old interval is cleared using `clearInterval`, ensuring no duplicate updates.  
 4️⃣ The new interval starts with `setInterval`, updating the time **every second**.
+
+## 🌍 Live Demo
+
+🔗 [View the project here](https://henccadude.github.io/international-clock-formatter/)
